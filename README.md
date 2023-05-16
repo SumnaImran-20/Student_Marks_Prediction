@@ -12,3 +12,7 @@ The problem for this project was:
 The project is build on django framework.
 
 Dataset and Jupyter Notebook are also uploaded with the project.
+
+![1](https://github.com/SumnaImran-20/Student_Marks_Prediction/assets/88527179/406b7376-5e25-4477-9736-2ea46a562cb8)
+![2](https://github.com/SumnaImran-20/Student_Marks_Prediction/assets/88527179/647c80c9-a34f-4b4e-a4ce-a1de263faa61)
+![3](https://github.com/SumnaImran-20/Student_Marks_Prediction/assets/88527179/2b154b09-2c92-4279-9b5e-9e9b1dcd6b67)
